@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+	<parameter name="randomSeed" displayName="Default Random Seed" type="int" defaultValue="__NULL__" />
+	<parameter name="ScaleFactor4Display" displayName="Scale Factor For Display" type="int" defaultValue="100" />
+	<!--parameter name="FriendSubRate" displayName="Friend Substitution Rate" type="float" defaultValue="0.05" /-->
+	<parameter name="IncWei_2001" displayName="IncWei_2001" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2001" displayName="FamWei_2001" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2001" displayName="RegWei_2001" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2002" displayName="IncWei_2002" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2002" displayName="FamWei_2002" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2002" displayName="RegWei_2002" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2003" displayName="IncWei_2003" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2003" displayName="FamWei_2003" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2003" displayName="RegWei_2003" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2004" displayName="IncWei_2004" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2004" displayName="FamWei_2004" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2004" displayName="RegWei_2004" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2005" displayName="IncWei_2005" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2005" displayName="FamWei_2005" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2005" displayName="RegWei_2005" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2006" displayName="IncWei_2006" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2006" displayName="FamWei_2006" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2006" displayName="RegWei_2006" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2007" displayName="IncWei_2007" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2007" displayName="FamWei_2007" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2007" displayName="RegWei_2007" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2008" displayName="IncWei_2008" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2008" displayName="FamWei_2008" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2008" displayName="RegWei_2008" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2009" displayName="IncWei_2009" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2009" displayName="FamWei_2009" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2009" displayName="RegWei_2009" type="float" defaultValue="0.5" />
+	<parameter name="IncWei_2010" displayName="IncWei_2010" type="float" defaultValue="0.2" />
+	<parameter name="FamWei_2010" displayName="FamWei_2010" type="float" defaultValue="0.2" />
+	<parameter name="RegWei_2010" displayName="RegWei_2010" type="float" defaultValue="0.5" />
+</parameters>

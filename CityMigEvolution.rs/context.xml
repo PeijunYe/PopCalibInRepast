@@ -1,0 +1,5 @@
+<context id="CityMigEvolution" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+	<context id="CityContext">
+		<projection type="geography" id="CityGeography"></projection>
+	</context>
+</context>
